@@ -5,3 +5,5 @@ blink leds experiments
 (https://www.youtube.com/watch?v=NgQdS9_uWh8 "Blink_6_LEDs")    // Video Link
 
 
+<video src="[LINK](https://www.youtube.com/watch?v=NgQdS9_uWh8)" controls="controls" style="max-width: 730px;">
+</video>
